@@ -1,0 +1,21 @@
+<?php
+
+function motor_menu() {
+
+  $items['node-export'] = array(
+    'title' => 'import data',
+    'page callback' => 'motor_node_export',
+    'access callback' => TRUE,
+    'type' => MENU_CALLBACK,
+  );
+
+
+  return $items;
+}
+
+function motor_form_alter(&$form, &$form_state, $form_id) {
+  if ($form_id == 'views_exposed_form') {
+    dpm($form);
+    $form['field_category_tid']['#options']['All'] = t('Category');
+  }
+}

@@ -1,0 +1,147 @@
+SKU,Megnevezés,Auchan,Tesco,Egyéb,Power Life,Power Life,VL Euro,VL Euro,Genoxy Eladási ár db.,Genoxy Eladási ár karton,karton db
+1,"Apenta + 0,75l(Focus;Antiox;Fit)",,,206,189,1134/6,,,205,1230,6
+2,"Power Fruit 0,75l",379,,265,240,1440/6,,,260,1560,6
+3,"Power Art 0,75l",379,,265,240,1440/6,,,260,1560,6
+4,Absolute Live 1l,,,339,310,1860/6,,,335,2010,6
+5,Absolute Live Fat Burner 1l,,,419,330,1980/6,,,400,2400,6
+6,"Absolute Live Fat Burner 0,5l",,,,240,2880/12,,,250,3000,12
+7,"Absolute Live 0,5l",,,235,210,2520/12,,,250,3000,12
+8,"Gatorade 0,5l",239/199,239,210,185,2220/12,,,210,2520,12
+9,"Real Fitt No1 0,8l",,,213,210,1260/6,,,220,1320,6
+10,"Pepsi 2,5l",419,293,,,,326,2608/8,,,
+11,"Pepsi 2,25l",339,,,309,2472/8,,,,,
+12,"Pepsi 1,75l",338/279,335/279,299,,,267,2136/8,295,2360,8
+13,Pepsi 1l,309,,,209,3135/15,,,240,3600,15
+14,"Pepsi 0,5l",229,229,,185,2220/12,199,,215,2580,12
+15,"Pepsi dobozos 0,33l",189,189,,,,110,2640/24,140,3360,24
+16,"7UP 2,5L",,,,,,332,2656/8,,,
+17,"7UP 2,25l",349,,,309,2472/8,,,329,2632,8
+18,"7UP 0,5L",229,229,,185,2220/15,,,215,3225,15
+19,"7UP 0,33L",,189,,,,110,2640/24,140,3360,24
+20,"Mirinda 2,25l",369,,,309,2472/8,,,329,2632,8
+21,"Mirinda 0,5l",229,229,,185,2220/15,,,215,3225,15
+22,"Canada Dry 1,5l",335,,299,289,2312/8,305,,299,2392,8
+23,"Canada Dry 0,5l",229,229,,185,2220/15,199,,215,3225,15
+24,"Schweppes 1,5l",335,335/299,,289,2312/8,305,,299,2392,8
+25,"Schweppes 0,5l",229,229,,185,2220/15,,,215,3225,15
+26,"Márka 0,5l",,,,125,1500/12,,,,,
+27,"Márka Ice Tea 1,5l",,,,,,164,984/6,,,
+28,"Márka Limonádé 1,5l",169,,,,,147,882/6,,,
+29,Márka 2l(Cola;Málna;Narancs),239/169,239,,,,147,882/6,,,
+30,"Nature Zitrone 0,5l(Mango-citrom,Citrom,Grapefruit)",,249,,209,1254/6,,,239,1434,6
+31,"Dobozos 0,33l(Pepsi,Pepsi Black,Schweppes Narancs,Dr.Pepper,Canada Dry,7 Up,Pepsi Black Lime,Black Cherry)",,,109,119,2856/24,110,2640/24,140,3360,24
+32,"Frutta Max Prémium szörp 0,5l (Eper,Barack,Meggy,Narancs,Málna,Bodza,Gránátalma,Citrom-lime,Feketeribizli,Áfonya)",,,650,569,4552/8,,,630,5040,8
+33,"Frutta Max Light Prémium szörp 0,5l ( Eper,Málna,Narancs,Citrom-lime)",,,650,569,4552/8,,,630,5040,8
+34,"Rauch Bravo 1,5l ( Green Apple,Sunny Orange,Sunny Strawberry,Multivitamin)",389,389,,289,1734/6,,,359,2154,6
+35,"Rauch Bravo 0,5l (Green Apple,Sunny Orange,Sunny Strawberry,Multivitamin)",,239,,179,2148/12,,,219,2628,12
+36,"Rauch My Tea 1,5l (Citrom,Őszibarack,Zöld,Dinnye,Fekete szeder,Red Berries,Green Berries)",339,339/299,,249,1494/6,,,289,1734,6
+37,"Rauch My Tea 0,5l (Citrom,Ősszibarack,Zöld,Dinnye,Fekete szeder,Red Berries,Green Berries)",199,,,159,1908/12,,,179,2148,12
+38,Magyar Nektár 1l,,,,339,2034/6,266,1596/6,,,
+39,"Toma 1l (Narancs 100 %,Alma 100 %, Ananász,Eper)",,,,309,3078/12,,,,,
+40,"Toma 0,5l",,,,185,2220/12,,,,,
+41,"Toma 0,33l",,,,185,2200/12,,,,,
+42,"Garden Fruit 0,5l (Fekete ribizli;Piros ribizli;Alma-Eper)",,,329,270,3240/12,,,299,3588,12
+43,"Garden Fruit 0,5l (Alma-Ananász;Alma-Homoktövis;Narancs)",,,376,345,4140/12,,,365,4380,12
+44,"Garden Fruit 0,5l (Sárgabarack;Meggy)",,,329,260,3120/12,,,299,3588,12
+45,"Garden Fruit 0,5l (Alma)",,,329,250,3000/12,,,299,3588,12
+46,"Garden Fruit 0,5l (Körte;Őszibarack)",,,329,255,3060/12,,,299,3588,12
+47,"Sió Citrus Friss 0,5l (Grapefruit;Lime-citrom,Narancs)",,,269,219,2628/12,,,249,2988,12
+48,"Sió 0,5l(Citrus-limonádé,Bodzás-limonádé,Multivitamin)",,,259,199,2388/12,,,239,2868,12
+49,"Sió Vitatigris 0,33l(Alma-málna,Alma-szőlő)",225,,219,189,2268/12,,,209,2508,12
+50,"Sió Vitatigris 0,2l(Alma,Szőlő,Őszibarack,Narancs,Piros,Rostos,Sárga)",99,99/79,,79,2133/27,,,89,2430,27
+51,"Sió Frissen Préselt 0,2l(Alma-meggy,Alma-mangó-maracuja)",229,,,174,1740/10,,,205,2050,10
+52,Top Joy üdítő 1 l ALMA-GRAPEFR.-SZŐLŐ-G.ALMA 25%,,,,,,266,3192/12,296,3552,12
+53,Top Joy üdítő 1 l ALMA-GÖRÖGDINNYE 20%,,389,,,,266,3192/12,296,3552,12
+54,Top Joy üdítő 1 l NAR.-ALMA-ANAN.-CSILLAGÁN. 25%,,,,,,239,2868/12,269,3228,12
+55,"Top Joy 0,4l(Guava,Mangó,Kaktusz,Pomelo)",245,,184,169,2028/12,,,189,2268,12
+56,"Top Joy 0,25l(Szólő-Aloe Vera,Ananász-kókusz,Almalé 100%,Kaktusz-alma-lime,Körte,Mangó,Narancslé 100%,Őszibarack 50%,Paradicsomlé 100%,Sárkánygyümölcs,Alma-eper-ananász,Meggy-alma,Alma-görögdinnye,Citrom-menta,Málna-menta)",189/159,199,160,135,3240/24,121,2904/24,155,3720,24
+57,"San Benedetto Ice Tea 1,5l(Citrom-Barack-Zöd Tea)",379,379/299,,279,1674/6,247,1482/6,289,1734,6
+58,"San Benedetto Ice Tea 0,5l(Citrom-Barack-Zöd Tea)",229,229,,149,1788/12,130,1560/12,170,2040,12
+59,"San Benedetto Zero 0,75l (Aranciata (Narancs);Limone(Citrom) ;Pompelmo)Gtapefruit)Gassossa(Citrom-lime) )",,,269,209,1254/6,191,1146/6,239,1434,6
+60,"San Benedetto ásványvíz 0,5l(Szénsavas,szénsavmentes)",109,109,,,,62,1488/24,99,2376,24
+61,"San Benedetto Bio 0,4l(Citrom-Barack)",,,290,239,2868/12,,,269,3228,12
+62,"San Benedetto Succoso Zero 0,4l(Frutta Mix,Frutti Rossi)",,,275,219,2628/12,,,249,2988,12
+63,"San Benedetto Ice Tea 0,33l(Citrom-Barack-Zöd Tea)",,,169,139,3336/24,,,159,3816,24
+64,"Kubu Play 0,4l(Multivitamin,Görögdinnye,Sárgarépa-alma-eper-lime,Sárgarépa-almalime-málna)",245,245,,179,2148/12,,,229,2748,12
+65,"Kubu víz 0,5l(Alma,Eper,Citrom,Málna)",259,259/245,249,179,2148/12,,,229,2748,12
+66,"Kubu Püré 100g(Alma,Eper,Barack)",159,179,,129,1548/12,,,149,1788,12
+67,"Vitatigris Gyümölcspüré 90g(100%Banán,100%Eper,100%Körte)",,169/139,,125,2500/20,,,145,2900,20
+68,"Rauch Yippy 0,33l(Alma,Multivitamin,Narancs,Őszibarack,Piros gyümölcs(Red berry)Cherry,Eper)",239,239,,179,2148/12,,,219,2628,12
+69,"Jana ásványvíz 1,5l(Citrom-limetta,Eper-guava,Alma-lics,Kék áfonya-vörösáfonya,Narancs-gyömbér,Menta-lime,Szölő-mirabella)",279,,,199,1194/6,,,239,1434,6
+70,"Jana Vitamin activity;Vitamin immuno,Kolagen beauty 0,5l",,279,,199,1194/6,,,239,1434,6
+71,"Jana ásványvíz 0,5l(Citrom-lime,Eper-guava,Kék áfonya)",199,199,,140,840/6,,,169,1014,6
+72,Jana Baby 1l,179/129,,,140,840/6,,,169,1014,6
+73,"Jana Baby 0,25l",149,149,,99,594/6,,,129,774,6
+74,"Jana Ice Tea 1,5l(Zöld tea-citrom;Meggy-rooibos)",359,359,,239,1434/6,,,269,1614,6
+75,"Jana Ice Tea 1,5l (Barack;Erdei gyümölcs;Citrom)",359,359,,219,1314/6,,,269,1614,6
+76,"Jana Ice Tea 0,5l(Barack,Erdei gyümölcs,Citrom)",229,,,185,1110/6,,,205,1230,6
+77,"Apenta 1,5l(Szőlő,Narancs,Meggy mámor,Málna,Grapefruit,Bodza)",249/169,249/169,,165,990/6,,,185,1110,6
+78,"Apenta Light 1,5l(Kaktuszfüge,Málna,Grapefruit-pomelo,Narancs)",169,249/169,,165,990/6,,,185,1110,6
+79,"Apenta Rio 1,5l(Maracuja-jaca,Acai-sárkánygyümölcs)",169,249/169,,165,990/6,,,185,1110,6
+80,"Apenta Exotic 1,5l(Citrom-citromfű,Lime-Tonic,Trópusi mix)",169,249/169,,165,990/6,,,185,1110,6
+81,"Apenta Vitamixx 1,5l(Áfonya-levendula,Alma-mangó,Narancs-grapefruit,Eper-vörösáfonya)",169,249/169,,165,990/6,,,185,1110,6
+82,"Szentkirályi limonádé 1,5l(Szamóca,Vadmálna,Jaffa,Vadszőlő,Citrom)",249,249,,169,1014/6,158,948/6,198,1188,6
+83,"Szentkirályi ásványvíz 0,5l(Szénsavas,szénsavmentes)",99,105,,85,1530/18,75,1350/18,95,1710,18
+84,"Szentkirályi limonádé 0,5l(Szamóca,Jaffa,Citrom)",,,,125,1500/12,,,155,1860,12
+85,"Szentkirályi ásványvíz 1,5l(Szénsavas,szénsavmentes)",109,129/109,,,,95,570/6,105,630,6
+86,"Szentkirályi ásványvíz O2 1,5l",219,,,,,118,708/6,159,954,6
+87,"Kristályvíz 1,5l",,,,95,570/6,,,,,
+88,"Kristályvíz 0,5l",,,,85,2040/25,,,,,
+89,"Visegrádi ásványvíz 0,5l",,69,,,,56,672/12,,,
+90,"Visegrádi ásványvíz 1,5l",84,89,,,,69,414/6,,,
+91,"Peridot lúgos ásványvíz 1,5l(szénsavmentes)",269,269,,160,960/6,,,199,1194,6
+92,"Vöslauer 0,75l(Eper-bors,Citrom-gyömbér,Pink grapefruit,Vörös szőlő,Uborka-bodza,Alma-vörösáfonya,Mangó-barack,Málna-citrom)",399,399,,245,1470/6,,,309,1854,6
+93,"VIWA vitaminos ásványvíz 0,5l(Vitality,Immunity,Everyday,Bodypro)",,269,220,179,2148/12,,,209,2508,12
+94,"Bomba üveges 0,25l(Classic)",169/139,169,,119,1428/12,125,1500/12,149,1788,12
+95,"Bomba 0,6l(Classic)",199,269,,199,2388/12,,,229,1374,6
+96,"Bomba dobozos 0,25l(Classic,Cukormentes,Mojito,Bodza,Zero,Alma Zero,Eper-menta)",169/139,169,,119,1428/12,125,3000/24,149,1788,12
+97,"Lipton Ice Tea 1,5l(Zöld tea,Barack,Málna,Citrom)",319,319/249,,289,2601/9,,,309,2781,9
+98,"Lipton Ice Tea 0,5l(Citrom,Zöld tea,Barack,Málna,Vörösáfonya-eper,Lime-menta)",229,229,,185,2220/12,,,215,2580,12
+99,"Lipton Ice Tea 0,33l(Citrom,Barack,Zöld tea)",,189,,119,2856/24,,,149,3576,24
+100,"Pfanner Pure Tea 1l(Gyümölcsös,Zöld tea)",399,399,,309,1854/6,,,339,2034,6
+101,"Pfanner Green Tea 0,5l(Zöld)",,,199,185,2220/12,,,195,2340,12
+102,"Pfanner Ice Tea 0,5l(Citrom,Barack)",,,199,185,2220/12,,,195,2340,12
+103,"Mizo Coffee Selection 330ml(Espresso,Americano,Laktózmentes cappuccino,Melange,Kapuciner,Flat White,Doppio,Latte Macchiato,Espresso no sugar)",239,,189,189,2835/15,,,219,3285,15
+104,"Mizo kakaó,Madártej,Laktózmentes 330ml",,239,,189,2835/15,,,219,3285,15
+105,Adrenalin energiaital 250 ml ALMA-GÖRÖGDINNYE,,129,,,,104,2496/24,119,2856,24
+106,Adrenalin energiaital 250 ml ALMA-KÖRTE-LIME,,129,,,,104,2496/24,119,2856,24
+107,Adrenalin energiaital 250 ml ALMA-SZILVA-FAHÉJ,,129,,,,104,2496/24,119,2856,24
+108,Adrenalin energiaital 250 ml DOBOZOS,,129,,,,104,2496/24,119,2856,24
+109,Adrenalin energiaital 250 ml KAKTUSZ-KIWI,,129,,,,104,2496/24,119,2856,24
+110,Adrenalin energiaital 250 ml MANGO ÉS BRAZIL CSERE,,129,,,,104,2496/24,119,2856,24
+111,Adrenalin energiaital 250 ml STRAWBERRY-LIME,,129,,,,104,2496/24,119,2856,24
+112,Adrenalin energiaital 250 ml ZERO EPER-LIME,,129,,,,104,2496/24,119,2856,24
+113,"Balfi ásványvíz 1,5 l DÚS",99,79,,,,67,402/6,,,
+114,"Balfi ásványvíz 1,5 l SZÉNSAVMENTES",99,79,,,,67,402/6,,,
+115,Hell energiaital 250 ml,189/149,199,149,,,131,3144/24,149,3576,24
+116,Hell energiaital 250 ml APPLE + KOFFEIN,189/149,199,149,,,131,3144/24,149,3576,24
+117,Hell energiaital 250 ml COLA ÍZŰ,189/149,199,149,,,131,3144/24,149,3576,24
+118,Hell energiaital 250 ml EPER CUKORMENTES,189/149,199,149,,,131,3144/24,149,3576,24
+119,Hell energiaital 250 ml FOCUS STRONG,189/149,199,149,,,157,3768/24,179,4296,24
+120,Hell energiaital 250 ml ICE COOL FEKETERIBIZ.,189/149,199,149,,,131,3144/24,149,3576,24
+121,Hell energiaital 250 ml ICE COOL KIWI,189/149,199,149,,,131,3144/24,149,3576,24
+122,Hell energiaital 250 ml MULTIVITAMIN,189/149,199,149,,,131,3144/24,149,3576,24
+123,Hell energiaital 250 ml RED GRAPE,189/149,199,149,,,131,3144/24,149,3576,24
+124,Hell energiaital 250 ml ZERO,189/149,199,149,,,131,3144/24,149,3576,24
+125,"Nestea Ice Tea 0,5l",239,239,,,,203,,,,
+126,"Vitalade sportital 0,7 l CITROM SPORTKUPAKOS",249/199,249,,,,223,2676/12,249,2988,12
+127,"Vitalade sportital 0,7 l GRAPEFRUIT SPORTKUPAKOS",249/199,249,,,,223,2676/12,249,2988,12
+128,"Vitalade sportital 0,7 l MULTI SPORTKUPAKOS",249/199,249,,,,223,2676/12,249,2988,12
+129,"Vitalade sportital 0,7 l NARANCS SPORTKUPAKOS",249/199,249,,,,223,2676/12,249,2988,12
+130,"Xixo ice tea 0,5 l CITROM",189,,,,,122,1464/12,152,1824,12
+131,"Xixo ice tea 0,5 l KÖRTE",189,,,,,122,1464/12,152,1824,12
+132,"Xixo ice tea 0,5 l ZÖLD TEA LICSIVEL",189,,,,,110,1320/12,152,1824,12
+133,"Xixo ice tea 1,5 l CITROM",179,179,179,,,161,966/6,179,1074,6
+134,"Xixo ice tea 1,5 l EPER-ROOIBOS",179,179,179,,,161,966/6,179,1074,6
+135,"Xixo ice tea 1,5 l FEKETERIBIZLI",179,179,179,,,161,966/6,179,1074,6
+136,"Xixo ice tea 1,5 l KÖRTE ÍZŰ",179,179,179,,,161,966/6,179,1074,6
+137,"Xixo ice tea 1,5 l MANGó ÍZŰ",179,179,179,,,161,966/6,179,1074,6
+138,"Xixo ice tea 1,5 l RóZSA ÍZŰ",179,179,179,,,147,882/6,179,1074,6
+139,"Xixo ice tea 1,5 l SZILVA ÍZŰ",179,179,179,,,161,966/6,179,1074,6
+140,"Xixo ice tea 1,5 l YLANG-YLANG ÍZŰ",179,179,179,,,147,882/6,179,1074,6
+141,"Xixo ice tea 1,5 l ZÖLD TEA LICSIVEL",179,179,179,,,161,966/6,179,1074,6
+142,"Xixo ice tea 1,5 l ŐSZIBARACK",179,179,179,,,161,966/6,179,1074,6
+143,Xixo ice tea 250 ml KÖRTE,129,129,129,,,78,1872/24,99,2376,24
+144,Xixo üdítőital 250 ml DOBOZOS COLA,,129,129,,,60,240/4,99,396,4
+145,Xixo üdítőital 250 ml DOBOZOS COLA ZERO,,129,129,,,60,240/4,99,396,4
+146,Xixo üdítőital 250 ml DOBOZOS NARANCS,,129,129,,,60,240/4,99,396,4
