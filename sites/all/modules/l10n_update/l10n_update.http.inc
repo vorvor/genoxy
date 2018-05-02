@@ -40,6 +40,7 @@ function l10n_update_http_check($url, array $headers = array()) {
 
       case 0:
         watchdog('l10n_update', 'Error occurred when trying to check @remote: @errormessage.', array('@errormessage' => $result->error, '@remote' => $url), WATCHDOG_ERROR);
+        dpm($result->error);
         break;
 
       default:
