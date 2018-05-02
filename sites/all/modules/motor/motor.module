@@ -15,7 +15,7 @@ function motor_menu() {
 
 function motor_form_alter(&$form, &$form_state, $form_id) {
   if ($form_id == 'views_exposed_form') {
-    dpm($form);
+
     $form['field_category_tid']['#options']['All'] = t('Category');
   }
 }

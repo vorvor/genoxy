@@ -2,6 +2,26 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+.admin-menu {
+  .header {
+		padding-top: 70px;
+  }
+  .panel-flexible {
+  	padding-top: 140px;
+  }
+}
+
+.pane-locale-language {
+	float: right;
+	ul {
+		list-style-type: none;
+	}
+	a {
+		color: #fff;
+		text-decoration: none;
+	}
+}
+
 .panels-flexible-region-1-center,
 .panels-flexible-region-2-center {
 	width: 100%;
