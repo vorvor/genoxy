@@ -22,6 +22,11 @@ body {
 	}
 }
 
+.panels-flexible-1
+.panels-flexible-row-1-main-row {
+	padding-top: 235px;
+}
+
 .panels-flexible-region-1-center,
 .panels-flexible-region-2-center {
 	width: 100%;
@@ -63,6 +68,14 @@ body {
   	font-size: 1.2em;
   	line-height: 1em;
   	color: #fff;
+  }
+
+  .pane-system-user-menu {
+  	clear: both;
+  	a {
+  		color: #fff;
+  		text-decoration: none;
+  	}
   }
 }
 
